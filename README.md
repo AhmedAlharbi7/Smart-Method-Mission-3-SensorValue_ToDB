@@ -19,7 +19,7 @@ In this repository a task required for Smart Methods company , and the basis of 
  
  
  ## Source will help you:
- 1. https://youtu.be/XZeFP-CXQj4
+ 1. Getting User Input using PHP, https://youtu.be/XZeFP-CXQj4
  2. W3schools,  https://www.w3schools.com/php/php_numbers.asp
  3. How to use PHP , https://youtu.be/begPcGfAwzY
  4. Link PHP with MYSQL , https://web.flow.opera.com/ext/v1/index-99b1baf0d2c3f8417675aca3109a9129a7c63981007bd26c703b41181c8f87b5.html
