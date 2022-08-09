@@ -8,6 +8,8 @@ In this repository a task required for Smart Methods company , and the basis of 
 
 ## Interface
 ![HTMLImageInterface](https://user-images.githubusercontent.com/109436965/183706126-8c6d0474-7d0c-4d6d-ae17-38ddcf43aadc.png)
+### The output should be like..
+![SensorValuePHP](https://user-images.githubusercontent.com/109436965/183706825-c4fa42fe-e131-4ee0-89fa-8d3e84e07a9c.png)
 
 ## Steps to follow
  ### 1. Install Visual Studio Code or any Software to use PHP and MySql : https://code.visualstudio.com/download
