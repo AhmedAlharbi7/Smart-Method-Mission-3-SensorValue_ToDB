@@ -2,9 +2,9 @@
 ## Intro
 In this repository a task required for Smart Methods company , and the basis of this task is how to use the php language and make it work with the MySQL language to store a sensor value entered from a web page and display it in another web page.
 ### The Requierded:
-• Create a webpage that receives a sensitive value (i.e., an Integer value)
-• Create a database of any type
-• Create a page that stores the sensor value in the database table
+• Create a webpage that receives a sensor value (i.e., an Integer value).
+• Create a database of any type.
+• Create a page that stores the sensor value in the database table.
 
 ## Interface
 ![HTMLImageInterface](https://user-images.githubusercontent.com/109436965/183706126-8c6d0474-7d0c-4d6d-ae17-38ddcf43aadc.png)
