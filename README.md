@@ -1,6 +1,7 @@
 # Smart-Method-Mission-3-SensorValue_ToDB
 ## Intro
-In this repository a task required for Smart Methods company , and the basis of this task is how to use the php language and make it work with the MySQL language to store a sensor value entered from a web page and display it in another web page.
+In this repository a task required for Smart Methods company , and the basis of this task is how to use the php language and make it work with the MySQL language to store a sensor value entered from a web page using sensor connected with Arduino and display it in another web page. I have not use the Arduino in this program, just simple interface that asks the user to enter sensor value.
+
 ### The Requierded:
 • Create a webpage that receives a sensor value (i.e., an Integer value).
 • Create a database of any type.
