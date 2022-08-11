@@ -17,10 +17,10 @@ In this repository a task required for Smart Methods company , and the basis of 
  ### 3. Install XAMPP Server to Run MYSQL, This Video will help you : https://youtu.be/-f8N4FEQWyY
  ### 4. Open XAMPP and Run MYSQL server
  ### 5. Connect MYSQL with Visual Studio Code : https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi7ybv7lLr5AhWogv0HHcyHDcsQwqsBegQIHhAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwzdCpJY6Y4c&usg=AOvVaw3rKdOVTZeBRagTSw6bEW95
- ### 6. Now open my files in Visual studio code and it should run , see the sourch link below it will help
+ ### 6. Now open my files in Visual studio code and it should work , see the resource links below it will help you.
  
  
- ## Source will help you:
+ ## Resources that will help you:
  1. Getting User Input using PHP, https://youtu.be/XZeFP-CXQj4
  2. W3schools,  https://www.w3schools.com/php/php_numbers.asp
  3. How to use PHP , https://youtu.be/begPcGfAwzY
